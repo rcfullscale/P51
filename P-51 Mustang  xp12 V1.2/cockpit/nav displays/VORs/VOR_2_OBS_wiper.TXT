@@ -1,0 +1,5 @@
+A
+750 version
+x 	y 
+0      40	// comment: VOR-LOC needle, offset center of rotation
+-40     0	// comment: GLIDE-SLOPE needle, offset center of rotation

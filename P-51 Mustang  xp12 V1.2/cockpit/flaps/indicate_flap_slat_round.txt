@@ -1,0 +1,5 @@
+A
+750 version
+ang1   ang2
+0	180		// comment: needle range for flaps
+360	270		// comment: needle range for slats

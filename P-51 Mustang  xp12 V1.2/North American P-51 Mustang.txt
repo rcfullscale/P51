@@ -1,0 +1,18 @@
+North American P-51 Mustang. Original model by Wouter Van Den Brand and posted on 3D Warehouse. 
+
+I would like to acknowledge and thank Bob 439 for his excellent, illuminating and very helpful "Fun With Normals and Their RGBA Layers" tutorial. All textures have been created by Drew Dale, using GIMP and following Bob 439's tutorial.
+
+The process of bringing this aircraft into being has been a landmark for me, in that I finally understand how to manipulate the metalness and shine of aircraft surfaces. I am very happy with the appearance of the aluminium surfaces of this aircraft.
+
+The North American Aviation P-51 Mustang is an American long-range, single-seat fighter and fighter-bomber used during World War II and the Korean War, among other conflicts. The Mustang was designed in April 1940 by a team headed by James H. Kindelberger of North American Aviation (NAA) in response to a requirement of the British Purchasing Commission. The commission approached NAA to build Curtiss P-40 fighters under license for the Royal Air Force (RAF). Rather than build an old design from another company, NAA proposed the design and production of a more modern fighter. The prototype NA-73X airframe was rolled out on 9 September 1940, 102 days after the contract was signed, and first flew on 26 October.
+
+In November 1944, 3 Squadron RAAF became the first Royal Australian Air Force unit to use Mustangs. At the time of its conversion from the P-40 to the Mustang, the squadron was based in Italy with the RAF's First Tactical Air Force. 3 Squadron was renumbered 4 Squadron after returning to Australia from Italy, and converted to P-51Ds. 
+
+Several other Australian or Pacific-based squadrons converted to either CAC-built Mustangs or to imported P-51Ks from July 1945, having been equipped with P-40s or Boomerangs for wartime service; these units were: 76, 77, 82, 83, 84 and 86 Squadrons. Only 17 Mustangs reached the RAAF's First Tactical Air Force front-line squadrons by the time World War II ended in August 1945.
+
+76, 77 and 82 Squadrons were formed into 81 Fighter Wing of the British Commonwealth Air Force, which was part of the British Commonwealth Occupation Force stationed in Japan from February 1946. 77 Squadron used its P-51s extensively during the first months of the Korean War, before converting to Gloster Meteor jets.
+
+Five reserve units from the Citizen Air Force also operated Mustangs. 21 "City of Melbourne" Squadron, based in the state of Victoria; 22 "City of Sydney" Squadron, based in New South Wales; 23 "City of Brisbane" Squadron, based in Queensland; 24 "City of Adelaide" Squadron, based in South Australia; and 25 "City of Perth" Squadron, based in Western Australia; all of these units were equipped with CAC Mustangs, rather than P-51D or Ks. The last Mustangs were retired from these units in 1960 when CAF units adopted a nonflying role.
+
+Aircraft A68-565, Type P-51K-10-NT was received by No 6 Aircraft Depot (6AD) RAAF from the USAAF on 7 May 1945. It was issued from 6 AD to 84 Squadron RAAF on 4 July 1945, coded LB-V.  The aircraft suffered a failure on takeoff from Bohle River Queensland and force landed on 2 August 1945. It was returned to 6AD for repair/writeoff on 27 August 1945 and, converted to components on 10 September 1945.
+

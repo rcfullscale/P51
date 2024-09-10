@@ -1,0 +1,19 @@
+A
+750 version
+   s_left 	s_right t_bottom t_top
+  	0   	9  	0	153	// comment: altitude 10000
+ 	10   	19  	0	153	// comment: altitude 1000
+ 	20   	46	0	153	// comment: altitude 100
+ 	0 	0 	0	0	// comment: altitude 10
+  	47   	53	0	97	// comment: millibars
+ 	54   	60	0	97	// comment: millibars
+ 	61   	67	0	97	// comment: millibars
+ 	68   	74	0	97	// comment: millibars
+ 	75   	81	0	97	// comment: inches
+ 	82   	88	0   	97	// comment: inches
+	89  	95	0   	97	// comment: inches
+	96   	102	0   	97	// comment: inches
+	0 	0 	0	0	// comment: IAS tape
+Make your tapes any size you like, providing coordinates above!
+Do NOT change the ORDER of the entries or NUMBER of entries, though.
+Enter all 0's for anything this instrument does not have.
