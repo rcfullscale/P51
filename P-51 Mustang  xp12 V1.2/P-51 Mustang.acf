@@ -2842,7 +2842,7 @@ P _body/0/_geo_xyz/8,9,1 -1.399860501
 P _body/0/_geo_xyz/8,9,2 13.000001907
 P _body/0/_geo_xyz/9,0,0 0.000000000
 P _body/0/_geo_xyz/9,0,1 0.114285715
-P _body/0/_geo_xyz/9,0,2 30.250000000
+P _body/0/_geo_xyz/9,0,2 30.250001907
 P _body/0/_geo_xyz/9,1,0 0.000000000
 P _body/0/_geo_xyz/9,1,1 0.114285715
 P _body/0/_geo_xyz/9,1,2 30.249996185
@@ -2869,7 +2869,7 @@ P _body/0/_geo_xyz/9,16,1 0.114285715
 P _body/0/_geo_xyz/9,16,2 30.249996185
 P _body/0/_geo_xyz/9,17,0 -0.000000000
 P _body/0/_geo_xyz/9,17,1 0.114285715
-P _body/0/_geo_xyz/9,17,2 30.250000000
+P _body/0/_geo_xyz/9,17,2 30.250001907
 P _body/0/_geo_xyz/9,2,0 0.000000000
 P _body/0/_geo_xyz/9,2,1 0.114285715
 P _body/0/_geo_xyz/9,2,2 30.249996185
@@ -3402,7 +3402,27 @@ P _gear/7/_gear_type 0
 P _gear/8/_gear_type 0
 P _gear/9/_gear_type 0
 P _gear/count 10
-P _lite/count 0
+P _lite/0/_dist 0.000000000
+P _lite/0/_hide 0
+P _lite/0/_index 0
+P _lite/0/_lite_type landing
+P _lite/0/_rgb/0 1.000000000
+P _lite/0/_rgb/1 1.000000000
+P _lite/0/_rgb/2 1.000000000
+P _lite/0/_rgb/count 3
+P _lite/0/_v10_att_body -1
+P _lite/0/_v10_att_gear 0
+P _lite/0/_v10_att_phi_ref 0.000000000
+P _lite/0/_v10_att_psi_ref -20.000000000
+P _lite/0/_v10_att_the_ref 0.000000000
+P _lite/0/_v10_att_wing -1
+P _lite/0/_v10_att_x_acf_prt_ref 0.000000000
+P _lite/0/_v10_att_y_acf_prt_ref 0.000000000
+P _lite/0/_v10_att_z_acf_prt_ref 0.000000000
+P _lite/0/_v10_is_internal 35
+P _lite/0/_v10_steers_with_gear 0
+P _lite/0/_width 0.000000000
+P _lite/count 1
 P _lite_equip/_land_lite_off_on_retract_EQ 0
 P _lite_equip/_taxi_lite_off_on_retract_EQ 0
 P _obja/0/_obj_flags 8
@@ -17168,6 +17188,14 @@ but_fuel_engine_cutoff but_fuel_on_off.png
 
 but_battery but_battery.png
   POS 705.428589 1023.571411
+  DATAREF 
+  LIGHT_MODE MECHANICAL
+  LIGHT_RHEOSTAT 0
+  KEY_FRAME 0.000000 0.000000 1.000000
+  KEY_FRAME 1.000000 1.000000
+
+but_land_light but_land_light.png
+  POS 516.000000 1098.000000
   DATAREF 
   LIGHT_MODE MECHANICAL
   LIGHT_RHEOSTAT 0
